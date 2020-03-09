@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './ClickyGame.css';
+import './App.css';
 import NavBar from './NavBar';
 import Instructions from './Instructions';
 import Card from './Card';

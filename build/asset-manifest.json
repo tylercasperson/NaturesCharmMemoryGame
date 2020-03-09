@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/naturescharm.git%20/static/css/main.ba7d6db5.chunk.css",
+    "main.js": "/naturescharm.git%20/static/js/main.50bda390.chunk.js",
+    "main.js.map": "/naturescharm.git%20/static/js/main.50bda390.chunk.js.map",
+    "runtime-main.js": "/naturescharm.git%20/static/js/runtime-main.ad5cdad1.js",
+    "runtime-main.js.map": "/naturescharm.git%20/static/js/runtime-main.ad5cdad1.js.map",
+    "static/js/2.2cac950e.chunk.js": "/naturescharm.git%20/static/js/2.2cac950e.chunk.js",
+    "static/js/2.2cac950e.chunk.js.map": "/naturescharm.git%20/static/js/2.2cac950e.chunk.js.map",
+    "index.html": "/naturescharm.git%20/index.html",
+    "precache-manifest.2d5d848c44a73672e672b48de812a23d.js": "/naturescharm.git%20/precache-manifest.2d5d848c44a73672e672b48de812a23d.js",
+    "service-worker.js": "/naturescharm.git%20/service-worker.js",
+    "static/css/main.ba7d6db5.chunk.css.map": "/naturescharm.git%20/static/css/main.ba7d6db5.chunk.css.map",
+    "static/js/2.2cac950e.chunk.js.LICENSE.txt": "/naturescharm.git%20/static/js/2.2cac950e.chunk.js.LICENSE.txt",
+    "static/media/picture1.jpg": "/naturescharm.git%20/static/media/picture1.44ab609e.jpg",
+    "static/media/picture10.jpg": "/naturescharm.git%20/static/media/picture10.2b021ae9.jpg",
+    "static/media/picture11.jpg": "/naturescharm.git%20/static/media/picture11.af2047dd.jpg",
+    "static/media/picture12.jpg": "/naturescharm.git%20/static/media/picture12.534ff598.jpg",
+    "static/media/picture2.jpg": "/naturescharm.git%20/static/media/picture2.c11384de.jpg",
+    "static/media/picture3.jpg": "/naturescharm.git%20/static/media/picture3.1e00d4a5.jpg",
+    "static/media/picture4.jpg": "/naturescharm.git%20/static/media/picture4.6d759907.jpg",
+    "static/media/picture5.jpg": "/naturescharm.git%20/static/media/picture5.2a01bebe.jpg",
+    "static/media/picture6.jpg": "/naturescharm.git%20/static/media/picture6.997562d7.jpg",
+    "static/media/picture7.jpg": "/naturescharm.git%20/static/media/picture7.bf00d826.jpg",
+    "static/media/picture8.jpg": "/naturescharm.git%20/static/media/picture8.97950dd3.jpg",
+    "static/media/picture9.jpg": "/naturescharm.git%20/static/media/picture9.57d6d54c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad5cdad1.js",
+    "static/js/2.2cac950e.chunk.js",
+    "static/css/main.ba7d6db5.chunk.css",
+    "static/js/main.50bda390.chunk.js"
+  ]
+}
