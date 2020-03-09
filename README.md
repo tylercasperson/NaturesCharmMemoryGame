@@ -1,5 +1,5 @@
 # NaturesCharmMemoryGame
-Memory game using pictures of nature. Click on a new image to get a point but do not click on an image twice.
+Memory game using pictures of nature. Click on a new image to get a point but do not click on an image twice.  
 
 ##Here is the link to the live website: [Natures Charm Memory Game](http://tylercasperson.github.io/naturescharm/)
 
